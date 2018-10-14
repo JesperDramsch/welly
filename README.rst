@@ -11,6 +11,10 @@ welly
     :target: https://pypi.python.org/pypi/welly/
     :alt: Development status
 
+.. image:: https://readthedocs.org/projects/welly/badge/?version=latest
+    :target: https://welly.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
 .. image:: https://img.shields.io/pypi/v/welly.svg
     :target: https://pypi.python.org/pypi/welly/
     :alt: Latest version
